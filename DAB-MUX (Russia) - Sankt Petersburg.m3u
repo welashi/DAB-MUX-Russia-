@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1,Радио России
+https://icecast-vgtrk.cdnvideo.ru/rrzonam
+#EXTINF:-1,Маяк
+https://icecast-vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1,Вести FM
+https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_128kbps
+#EXTINF:-1,Радио Культура
+https://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
+#EXTINF:-1,Радио Юность
+https://icecast-vgtrk.cdnvideo.ru/unost_mp3_128kbps
+#EXTINF:-1,Орфей
+https://orfeyfm.hostingradio.ru:8034/orfeyfm96.aacp
+#EXTINF:-1,Радио Sputnik
+https://icecast-rian.cdnvideo.ru/voicerus
+#EXTINF:-1,Радио Звезда
+https://radio.mediacdn.ru/radio/zvezda/zvezda_128
+#EXTINF:-1,Радио Милицейская волна
+https://radiomv.hostingradio.ru:80/radiomv128.mp3
+#EXTINF:-1,Радио Мир
+https://icecast-mirtv.cdnvideo.ru/radio_mir_256
+#EXTINF:-1,Радио Комсомольская правда
+https://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
+#EXTINF:-1,Радио Вера
+http://radiovera.hostingradio.ru:8007/radiovera_128
+#EXTINF:-1,Авторадио
+https://pub0302.101.ru:8443/stream/air/aac/64/100
+#EXTINF:-1,Радио Energy
+https://pub0302.101.ru:8443/stream/air/aac/64/99
+#EXTINF:-1,Like FM
+https://pub0102.101.ru:8443/stream/reg/aac/64/region_like_tz_0
+#EXTINF:-1,Радио Romantika
+https://pub0302.101.ru:8443/stream/air/aac/64/101
+#EXTINF:-1,Relax FM
+https://srv12.gpmradio.ru:8443/stream/reg/aac/64/region_relax_tz_0
+#EXTINF:-1,Юмор FM
+https://srv21.gpmradio.ru:8443/stream/air/aac/64/102
+#EXTINF:-1,Comedy Radio
+https://pub0101.101.ru/stream/air/aac/64/202
+#EXTINF:-1,Детское радио
+https://pub0202.101.ru:8443/stream/air/aac/64/199
+#EXTINF:-1,Наше Радио
+http://nashe3.hostingradio.ru/nashe-128.mp3
+#EXTINF:-1,Rock FM
+https://nashe1.hostingradio.ru:80/rock-128.mp3
+#EXTINF:-1,Радио Jazz
+https://nashe1.hostingradio.ru/jazz-128.mp3
+#EXTINF:-1,Радио Ultra
+http://nashe3.hostingradio.ru/ultra-128.mp3
+#EXTINF:-1,Радио Петербург
+https://radio.5-tv.ru/radio.mp3
+#EXTINF:-1,Радио Эрмитаж
+http://hermitage.hostingradio.ru/hermitage128.mp3
+#EXTINF:-1,Радио «Град Петров»
+https://stream.grad-petrov.ru:8094/mp3
+#EXTINF:-1,Питер FM
+https://piterfm-hls.cdnvideo.ru/piterfm-live/piterfm.stream/playlist.m3u8
+#EXTINF:-1,Эльдорадио
+https://emgspb.hostingradio.ru/eldoradio128.mp3
+#EXTINF:-1,Royal Radio
+https://c22.radioboss.fm/stream/186
+#EXTINF:-1,Radio METRO
+https://stream.radiometro.ru:8443/metro.mp3
+#EXTINF:-1,Радио Популярная классика
+https://icecast-radioclassica.cdnvideo.ru/radioclassica
+#EXTINF:-1,Модное Радио (Выборг)
+https://cast.modnoeradio.ru/mp320r
+#EXTINF:-1,Русское Радио
+https://rusradio.hostingradio.ru/rusradio96.aacp
+#EXTINF:-1,Хит FM
+http://rusradio.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1,Радио Максимум
+https://maximum.hostingradio.ru/maximum128.mp3
+#EXTINF:-1,DFM
+http://dfm.hostingradio.ru/dfm96.aacp
+#EXTINF:-1,Радио Monte Carlo
+http://rusradio.hostingradio.ru/montecarlo128.mp3
+#EXTINF:-1,Европа Плюс
+https://ep128.hostingradio.ru:8030/ep128
+#EXTINF:-1,Studio 21
+https://stream.studio21.ru/studio2196.aacp
+#EXTINF:-1,Радио 7
+http://radio7server.streamr.ru:8040/radio7128.mp3
+#EXTINF:-1,Новое Радио
+http://icecast-newradio.cdnvideo.ru/newradio3
+#EXTINF:-1,Дорожное радио
+http://dorognoe.hostingradio.ru/radioДорожное радио
+#EXTINF:-1,Радио Калина Красная
+http://icecast-studio21.cdnvideo.ru/KalynaK_1aРадио Калина Красная
+#EXTINF:-1,Ретро FM
+https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3Ретро FM
+#EXTINF:-1,Радио Дача
+https://stream2.n340.com/12_dacha_64_reg_1093?type=aac&UID=BDC374593F946ED710317FEB7568E2FA
+#EXTINF:-1,Радио Русский Хит
+https://microit.n340.ru:8443/VgMv0WV17ZVx1uuo_19_ruhit_64_reg_1
+#EXTINF:-1,Радио Такси FM
+https://microit.n340.ru:8443/VgMv0WV17ZVx1uuo_13_taxi_64
+#EXTINF:-1,Радио Шансон
+https://chanson.hostingradio.ru:8041/chanson128.mp3Радио Шансон
+#EXTINF:-1,Love Radio
+https://microit2.n340.ru:8443/VgMv0WV17ZVx1uuo_12_love_64
+#EXTINF:-1,Восток FM
+https://stream.n340.com:8443/18_vostok_28?type=.aac&UID=BDC374593F946ED710317FEB7568E2FA
+#EXTINF:-1,Первое Спортивное Радио
+https://stream2.n340.com/20_sport_64_reg_1?type=.aac&UID=BDC374593F946ED710317FEB7568E2FA
+#EXTINF:-1,Радио Рекорд
+https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8 
+#EXTINF:-1,Радио Шоколад
+https://choco.hostingradio.ru:10010/fm
+#EXTINF:-1,Business FM
+https://bfm.hostingradio.ru:9075/fmBusiness FM 
+#EXTINF:-1,Коммерсантъ FM
+https://kommersant77.hostingradio.ru:8016/kommersant128.mp3
+#EXTINF:-1,Радио Гордость
+https://rgordost.hostingradio.ru/rgordost128.aacpРадио Гордость 
+#EXTINF:-1,Жара FM
+https://hls-01-zharafm.hostingradio.ru/zharafm/playlist.m3u8
