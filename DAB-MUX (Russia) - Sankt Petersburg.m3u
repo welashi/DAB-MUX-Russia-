@@ -1,117 +1,117 @@
 #EXTM3U
-#EXTINF:-1,Радио России
+#EXTINF:-1,Radio Rossii
 https://icecast-vgtrk.cdnvideo.ru/rrzonam
-#EXTINF:-1,Маяк
+#EXTINF:-1,Mayak
 https://icecast-vgtrk.cdnvideo.ru/mayakfm
-#EXTINF:-1,Вести FM
+#EXTINF:-1,Vesti FM
 https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_128kbps
-#EXTINF:-1,Радио Культура
+#EXTINF:-1,Radio Kul’tura
 https://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
-#EXTINF:-1,Радио Юность
+#EXTINF:-1,Radio Yunost’
 https://icecast-vgtrk.cdnvideo.ru/unost_mp3_128kbps
-#EXTINF:-1,Орфей
+#EXTINF:-1,Orfey
 https://orfeyfm.hostingradio.ru:8034/orfeyfm96.aacp
-#EXTINF:-1,Радио Sputnik
+#EXTINF:-1,Radio Sputnik
 https://icecast-rian.cdnvideo.ru/voicerus
-#EXTINF:-1,Радио Звезда
+#EXTINF:-1,Radio Zvezda
 https://radio.mediacdn.ru/radio/zvezda/zvezda_128
-#EXTINF:-1,Радио Милицейская волна
+#EXTINF:-1,Radio Militseyskaya volna
 https://radiomv.hostingradio.ru:80/radiomv128.mp3
-#EXTINF:-1,Радио Мир
+#EXTINF:-1,Radio Mir
 https://icecast-mirtv.cdnvideo.ru/radio_mir_256
-#EXTINF:-1,Радио Комсомольская правда
+#EXTINF:-1,Radio Komsomol’skaya pravda
 https://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
-#EXTINF:-1,Радио Вера
+#EXTINF:-1,Radio Vera
 http://radiovera.hostingradio.ru:8007/radiovera_128
-#EXTINF:-1,Авторадио
+#EXTINF:-1,Avtoradio
 https://pub0302.101.ru:8443/stream/air/aac/64/100
-#EXTINF:-1,Радио Energy
+#EXTINF:-1,Radio Energy
 https://pub0302.101.ru:8443/stream/air/aac/64/99
 #EXTINF:-1,Like FM
 https://pub0102.101.ru:8443/stream/reg/aac/64/region_like_tz_0
-#EXTINF:-1,Радио Romantika
+#EXTINF:-1,Radio Romantika
 https://pub0302.101.ru:8443/stream/air/aac/64/101
 #EXTINF:-1,Relax FM
 https://srv12.gpmradio.ru:8443/stream/reg/aac/64/region_relax_tz_0
-#EXTINF:-1,Юмор FM
+#EXTINF:-1,Yumor FM
 https://srv21.gpmradio.ru:8443/stream/air/aac/64/102
 #EXTINF:-1,Comedy Radio
 https://pub0101.101.ru/stream/air/aac/64/202
-#EXTINF:-1,Детское радио
+#EXTINF:-1,Detskoe radio
 https://pub0202.101.ru:8443/stream/air/aac/64/199
-#EXTINF:-1,Наше Радио
+#EXTINF:-1,Nashe Radio
 http://nashe3.hostingradio.ru/nashe-128.mp3
 #EXTINF:-1,Rock FM
 https://nashe1.hostingradio.ru:80/rock-128.mp3
-#EXTINF:-1,Радио Jazz
+#EXTINF:-1,Radio Jazz
 https://nashe1.hostingradio.ru/jazz-128.mp3
-#EXTINF:-1,Радио Ultra
+#EXTINF:-1,Radio Ultra
 http://nashe3.hostingradio.ru/ultra-128.mp3
-#EXTINF:-1,Радио Петербург
+#EXTINF:-1,Radio Peterburg
 https://radio.5-tv.ru/radio.mp3
-#EXTINF:-1,Радио Эрмитаж
+#EXTINF:-1,Radio Èrmitazh
 http://hermitage.hostingradio.ru/hermitage128.mp3
-#EXTINF:-1,Радио «Град Петров»
+#EXTINF:-1,Radio «Grad Petrov»
 https://stream.grad-petrov.ru:8094/mp3
-#EXTINF:-1,Питер FM
+#EXTINF:-1,Piter FM
 https://piterfm-hls.cdnvideo.ru/piterfm-live/piterfm.stream/playlist.m3u8
-#EXTINF:-1,Эльдорадио
+#EXTINF:-1,Èl’doradio
 https://emgspb.hostingradio.ru/eldoradio128.mp3
 #EXTINF:-1,Royal Radio
 https://c22.radioboss.fm/stream/186
 #EXTINF:-1,Radio METRO
 https://stream.radiometro.ru:8443/metro.mp3
-#EXTINF:-1,Радио Популярная классика
+#EXTINF:-1,Radio Populyarnaya klassika
 https://icecast-radioclassica.cdnvideo.ru/radioclassica
-#EXTINF:-1,Модное Радио (Выборг)
+#EXTINF:-1,Modnoe Radio (Vyborg)
 https://cast.modnoeradio.ru/mp320r
-#EXTINF:-1,Русское Радио
+#EXTINF:-1,Russkoe Radio
 https://rusradio.hostingradio.ru/rusradio96.aacp
-#EXTINF:-1,Хит FM
+#EXTINF:-1,Khit FM
 http://rusradio.hostingradio.ru/hitfm128.mp3
-#EXTINF:-1,Радио Максимум
+#EXTINF:-1,Radio Maksimum
 https://maximum.hostingradio.ru/maximum128.mp3
 #EXTINF:-1,DFM
 http://dfm.hostingradio.ru/dfm96.aacp
-#EXTINF:-1,Радио Monte Carlo
+#EXTINF:-1,Radio Monte Carlo
 http://rusradio.hostingradio.ru/montecarlo128.mp3
-#EXTINF:-1,Европа Плюс
+#EXTINF:-1,Evropa Plyus
 https://ep128.hostingradio.ru:8030/ep128
 #EXTINF:-1,Studio 21
 https://stream.studio21.ru/studio2196.aacp
-#EXTINF:-1,Радио 7
+#EXTINF:-1,Radio 7
 http://radio7server.streamr.ru:8040/radio7128.mp3
-#EXTINF:-1,Новое Радио
+#EXTINF:-1,Novoe Radio
 http://icecast-newradio.cdnvideo.ru/newradio3
-#EXTINF:-1,Дорожное радио
-http://dorognoe.hostingradio.ru/radioДорожное радио
-#EXTINF:-1,Радио Калина Красная
-http://icecast-studio21.cdnvideo.ru/KalynaK_1aРадио Калина Красная
-#EXTINF:-1,Ретро FM
-https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3Ретро FM
-#EXTINF:-1,Радио Дача
+#EXTINF:-1,Dorozhnoe radio
+http://dorognoe.hostingradio.ru/radioDorozhnoe radio
+#EXTINF:-1,Radio Kalina Krasnaya
+http://icecast-studio21.cdnvideo.ru/KalynaK_1aRadio Kalina Krasnaya
+#EXTINF:-1,Retro FM
+https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3Retro FM
+#EXTINF:-1,Radio Dacha
 https://stream2.n340.com/12_dacha_64_reg_1093?type=aac&UID=BDC374593F946ED710317FEB7568E2FA
-#EXTINF:-1,Радио Русский Хит
+#EXTINF:-1,Radio Russky Khit
 https://microit.n340.ru:8443/VgMv0WV17ZVx1uuo_19_ruhit_64_reg_1
-#EXTINF:-1,Радио Такси FM
+#EXTINF:-1,Radio Taksi FM
 https://microit.n340.ru:8443/VgMv0WV17ZVx1uuo_13_taxi_64
-#EXTINF:-1,Радио Шансон
-https://chanson.hostingradio.ru:8041/chanson128.mp3Радио Шансон
+#EXTINF:-1,Radio Shanson
+https://chanson.hostingradio.ru:8041/chanson128.mp3Radio Shanson
 #EXTINF:-1,Love Radio
 https://microit2.n340.ru:8443/VgMv0WV17ZVx1uuo_12_love_64
-#EXTINF:-1,Восток FM
+#EXTINF:-1,Vostok FM
 https://stream.n340.com:8443/18_vostok_28?type=.aac&UID=BDC374593F946ED710317FEB7568E2FA
-#EXTINF:-1,Первое Спортивное Радио
+#EXTINF:-1,Pervoe Sportivnoe Radio
 https://stream2.n340.com/20_sport_64_reg_1?type=.aac&UID=BDC374593F946ED710317FEB7568E2FA
-#EXTINF:-1,Радио Рекорд
+#EXTINF:-1,Radio Rekord
 https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8 
-#EXTINF:-1,Радио Шоколад
+#EXTINF:-1,Radio Shokolad
 https://choco.hostingradio.ru:10010/fm
 #EXTINF:-1,Business FM
 https://bfm.hostingradio.ru:9075/fmBusiness FM 
-#EXTINF:-1,Коммерсантъ FM
+#EXTINF:-1,Kommersant FM
 https://kommersant77.hostingradio.ru:8016/kommersant128.mp3
-#EXTINF:-1,Радио Гордость
-https://rgordost.hostingradio.ru/rgordost128.aacpРадио Гордость 
-#EXTINF:-1,Жара FM
+#EXTINF:-1,Radio Gordost’
+https://rgordost.hostingradio.ru/rgordost128.aacpRadio Gordost’ 
+#EXTINF:-1,Žara FM
 https://hls-01-zharafm.hostingradio.ru/zharafm/playlist.m3u8
